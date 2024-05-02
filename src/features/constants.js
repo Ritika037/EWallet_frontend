@@ -1,4 +1,4 @@
-export const API_URL = "https://ewalletbackend-d1b7.onrender.com";
+export const API_URL = "https://ewallet-backend.onrender.com";
 
 //"http://localhost:4510";
 
